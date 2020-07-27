@@ -46,10 +46,20 @@ Twitter-like app in Django, Bootstrap, Javascript, & React.js
 * Python
 * `Django 2.2`
 * REST framework
-* `React` on front 
-* `XCTest` (>60% Code Coverage and growing)
+* `React` on front
 
 ---
+
+
+## Trainings & Certifications
+
+|Organization | Certificate | Credentials |
+:-: | --- | :-: |
+![img](https://i.imgur.com/d7FVRFX.png)| [Complete Python Developer in 2020: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) | [Credential](https://www.udemy.com/certificate/UC-13c9210a-0d04-4439-a875-2e61707a060c/)
+![img](https://i.imgur.com/UExjsRx.png?2)| [Python: основы и применение](https://stepik.org/course/512) |  [Credential](https://stepik.org/cert/49928)
+![img](https://i.imgur.com/d7FVRFX.png)| [Try Django 2.2 - Web Development with Python 3.6+](https://www.udemy.com/course/try-django-2-2-python-web-development) |  [Credential](https://www.udemy.com/certificate/UC-3LDZ3EG9/) 
+![img](https://i.imgur.com/Zv2qeeT.png)  | [Advanced Python](https://www.linkedin.com/learning/advanced-python) | Not Provided
+![img](https://i.imgur.com/d7FVRFX.png)|  [SQL and PostgreSQL](https://www.udemy.com/course/bestpostgres/) | In Progress...
 
 ## University Education
 
