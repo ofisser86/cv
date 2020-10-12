@@ -34,10 +34,11 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * `HTML5, CSS3`
 * DigitalOcean droplets/AWS deploying
 
+---
+
 ## Projects
 
-
-### App checks if given passwords were leaked
+### Passord checker app - App checks if given passwords were leaked
 ##### [Open Source on GitHub](https://github.com/ofisser86/passchecker.git) 
 Python app for password checking 
 
@@ -49,7 +50,19 @@ Python app for password checking
 
 ---
 
-### TweetMe-2
+### Game - Rock-Paper-Scissors
+##### [Open Source on GitHub](https://github.com/ofisser86/jb-rock-paper-scissors) 
+Rock, paper, scissors is a well-known hand game. Each one of two players simultaneously forms one of three shapes with their hands, and then, depending on the chosen shapes, the winner is determined: rock beats scissors, paper wins over rock, scissors beat paper. The game is widely used to make a fair decision between equal options 
+
+**Tech:**
+
+* Python
+* `random` lib
+* Two levels game implementation
+
+---
+
+### Django App - TweetMe-2
 ##### [Open Source on GitHub](https://github.com/ofisser86/tweetme2) 
 Twitter-like app in Django, Bootstrap, Javascript, & React.js 
 
