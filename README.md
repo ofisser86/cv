@@ -38,7 +38,7 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 
 ## Projects
 
-### Passord checker app - App checks if given passwords were leaked
+### Password checker app - App checks if given passwords were leaked
 ##### [Open Source on GitHub](https://github.com/ofisser86/passchecker.git) 
 Python app for password checking 
 
