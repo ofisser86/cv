@@ -75,6 +75,27 @@ Rock, paper, scissors is a well-known hand game. Each one of two players simulta
 
 ---
 
+
+
+### Django App - Generator CSV
+##### [Open Source on GitHub](https://github.com/ofisser86/generating-scv) 
+Demo site: https://generatingcsv.herokuapp.com/
+
+User: `testUser`
+Pass: `VoMyUUT73awSVm8L`
+
+App for creating custom csv data schemas with custom fields and generating fake csv data 
+
+**Tech:**
+
+* Python
+* `Django 2.2`
+* csv lib
+* djnago-storage for managed media on S3 bucket
+
+---
+
+
 ### Django App - TweetMe-2
 ##### [Open Source on GitHub](https://github.com/ofisser86/tweetme2) 
 Twitter-like app in Django, Bootstrap, Javascript, & React.js 
