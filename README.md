@@ -96,19 +96,6 @@ App for creating custom csv data schemas with custom fields and generating fake 
 ---
 
 
-### Django App - TweetMe-2
-##### [Open Source on GitHub](https://github.com/ofisser86/tweetme2) 
-Twitter-like app in Django, Bootstrap, Javascript, & React.js 
-
-**Tech:**
-
-* Python
-* `Django 2.2`
-* REST framework
-* `React` on front
-
----
-
 
 ## Trainings & Certifications
 
